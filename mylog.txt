@@ -76,3 +76,18 @@
    76  git log
    77  history
    78  history > mylog.txt
+   79  ls
+   80  git push origin mylog.tt
+   81  git push origin mylog.txt
+   82  git commit -m "mylog.txt"
+   83  git add mylog.txt
+   84  git commit -m
+   85  git commit -m "mylog.txt"
+   86  git push origin master
+   87  git push origin master
+   88  git branch -a
+   89  git push --force origin master
+   90  git pull --rebase origin master
+   91  git push origin master
+   92  git push --force origin master
+   93  history > mylog.txt
