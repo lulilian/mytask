@@ -1,0 +1,78 @@
+    1  git config -l
+    2  git config --system --list
+    3  git config --global user.name "lulilian"
+    4  git config --global user.email 2485495922@qq.com
+    5  git clone https://github.com/lulilian/mytask.git
+    6  git init G:\Git\Git\task
+    7  git status
+    8  git status 
+    9  cd /G/Git/Git
+   10  git status
+   11  cd /task
+   12  git status
+   13  cd G:\Git\Git
+   14  mkdir project
+   15  cd project
+   16  git init lulilian
+   17  git clone https://github.com/lulilian/mytask.git
+   18  git status
+   19  git init
+   20  git status
+   21  git status
+   22  cd 
+   23  cd G:\Git\Git
+   24  cd G:\Git
+   25  cd G:\Git
+   26  git init preject1
+   27  ls -a
+   28  cd preject1
+   29  ls -a
+   30  ls -a
+   31  exit
+   32  cd G:/Git
+   33  cd /Git
+   34  cd Git
+   35  cd mytask
+   36  ls
+   37  ls -a
+   38  git branch
+   39  git branch -r
+   40  exit
+   41  cd G:/task
+   42  cd G:/Git
+   43  git init task
+   44  ls -a
+   45  cd task
+   46  git branch task1
+   47  git branch task
+   48  git branch
+   49  git branch -r
+   50  git branch -a
+   51  ls
+   52  ls -a
+   53  cd ..
+   54  cd ..
+   55  cd ..
+   56  cd G:/Git
+   57  cd Git
+   58  cd mytask
+   59  ls -a
+   60  git branch -a
+   61  git branch -r
+   62  git push origin --dekete task1
+   63  git branch -a
+   64  git push origin --delete task1
+   65  git branch -a
+   66  git push origin --delete task2
+   67  git push origin --delete task3
+   68  git push origin --delete task4
+   69  git branch -a
+   70  git branch task1
+   71  git branch task2
+   72  git branch task3
+   73  git push origin task1
+   74  git push origin task2
+   75  git push origin task3
+   76  git log
+   77  history
+   78  history > mylog.txt
